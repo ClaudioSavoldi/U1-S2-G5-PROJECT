@@ -1,6 +1,8 @@
 /* Your styles here */
 body {
   font-family: Arial, Helvetica, sans-serif;
+  width: 1300px;
+  overflow-x: auto;
 }
 header {
   max-width: 100%;
